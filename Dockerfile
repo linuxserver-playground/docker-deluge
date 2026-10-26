@@ -4,7 +4,7 @@ FROM ghcr.io/linuxserver/unrar:latest AS unrar
 
 FROM ghcr.io/by275/libtorrent:1-alpine3.23 AS libtorrent
 
-FROM ghcr.io/linuxserver/baseimage-alpine:3.23
+FROM ghcr.io/linuxserver-playground/baseimage-alpine:3.23
 
 # set version label
 ARG BUILD_DATE
