@@ -15,6 +15,9 @@ upstream:
   version:
     type: pip
     package: deluge
+  sponsor:
+  - name: Patreon (Calum Lind, lead developer)
+    url: https://www.patreon.com/deluge_cas
 
 release:
   branch: libtorrentv1
