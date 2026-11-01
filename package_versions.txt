@@ -152,7 +152,7 @@ tomli                    2.4.0             python
 tomli                    2.4.1             python                           
 tomli-w                  1.2.0             python                           
 truststore               0.10.4            python                           
-twisted                  26.4.0            python                           
+twisted                  26.10.0           python                           
 typing-extensions        4.16.0            python                           
 tzdata                   2026e-r0          apk                              
 urllib3                  2.7.0             python                           
